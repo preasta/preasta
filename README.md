@@ -10,7 +10,7 @@
 
 <div align="center">
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
-    <img alt="NodeJS" align="center" src="https://img.shields.io/badge/-NodeJS-007acc?style=flat-square&logo=typescript&logoColor=white"/>
+    <img alt="NodeJS" align="center" src="https://img.shields.io/badge/-NodeJS-007acc?style=flat-square&logo=nodejs&logoColor=white"/>
 </div>
 
 ## 📈 Github Stats
