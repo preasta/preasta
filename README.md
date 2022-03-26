@@ -1,9 +1,9 @@
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/936908738365906954" target="_blank"><img src="https://shields.io/badge/Preasta#9999-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.com/users/936908738365906954" target="_blank"><img src="https://shields.io/badge/Preasta-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/preasta" target="_blank"><img src="https://shields.io/badge/Preasta-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://discord.gg/3RhNNwG2M2" target="_blank"><img src="https://shields.io/badge/My Software Company-111111.svg?&style=for-the-badge"></a>
+    <a href="https://discord.gg/3RhNNwG2M2" target="_blank"><img src="https://shields.io/badge/My Software Company-111111.svg?&style=for-the-badge&logo=discord"></a>
 </div>
 
 ## 💻 Technologies I Use
